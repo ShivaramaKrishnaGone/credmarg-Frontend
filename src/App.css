@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.input-error {
+  border: 1px solid red;
+}
+
+.error {
+  color: red;
+  font-size: 0.8em;
+}
+
+
+

@@ -1,0 +1,17 @@
+.general-error {
+    color: #f44336;
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 14px;
+  }
+  
+  .input-error {
+    border: 1px solid #f44336;
+  }
+  
+  .error {
+    color: #f44336;
+    margin: 5px 0;
+    font-size: 12px;
+  }
+  
